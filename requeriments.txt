@@ -1,0 +1,5 @@
+flask
+pandas
+python-docx
+gunicorn
+docx2pdf
